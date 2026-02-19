@@ -1,4 +1,4 @@
-# Student_performnace_prediction
+# Student_performance_prediction
 
 🎓 Student Performance Prediction
 This project predicts a student’s exam score (continuous value) based on academic and lifestyle factors using LightGBM Regressor.
