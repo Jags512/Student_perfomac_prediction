@@ -1,6 +1,6 @@
-# Student_performance_prediction
 
-🎓 Student Performance Prediction
+Academic Risk Prediction System
+🎓 Academic Risk Prediction System
 This project predicts a student’s exam score (continuous value) based on academic and lifestyle factors using LightGBM Regressor.
 The goal of this project is to analyze how different factors such as study hours, sleep quality, attendance, and study method affect student performance.
 
